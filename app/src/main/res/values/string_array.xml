@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_1_array">
+        <item>@string/answer_1_a</item>
+        <item>@string/answer_1_b</item>
+        <item>@string/answer_1_c</item>
+        <item>@string/answer_1_d</item>
+    </string-array>
+    <string-array name="answer_2_array">
+        <item>@string/answer_2_a</item>
+        <item>@string/answer_2_b</item>
+        <item>@string/answer_2_c</item>
+        <item>@string/answer_2_d</item>
+    </string-array>
+    <string-array name="answer_3_array">
+        <item>@string/answer_3_a</item>
+        <item>@string/answer_3_b</item>
+    </string-array>
+    <string-array name="answer_4_array">
+        <item>@string/answer_4_a</item>
+        <item>@string/answer_4_b</item>
+    </string-array>
+    <string-array name="answer_5_array">
+        <item>@string/answer_5_a</item>
+        <item>@string/answer_5_b</item>
+    </string-array>
+    <string-array name="answer_6_array">
+        <item>@string/answer_6_a</item>
+        <item>@string/answer_6_b</item>
+        <item>@string/answer_6_c</item>
+        <item>@string/answer_6_d</item>
+    </string-array>
+    <string-array name="answer_7_array">
+        <item>@string/answer_7_a</item>
+        <item>@string/answer_7_b</item>
+        <item>@string/answer_7_c</item>
+        <item>@string/answer_7_d</item>
+    </string-array>
+    <string-array name="answer_8_array">
+        <item>@string/answer_8_a</item>
+        <item>@string/answer_8_b</item>
+        <item>@string/answer_8_c</item>
+        <item>@string/answer_8_d</item>
+    </string-array>
+    <string-array name="answer_9_array">
+        <item>@string/answer_9_a</item>
+        <item>@string/answer_9_b</item>
+        <item>@string/answer_9_c</item>
+        <item>@string/answer_9_d</item>
+    </string-array>
+    <string-array name="answer_10_array">
+        <item>@string/answer_10_a</item>
+        <item>@string/answer_10_b</item>
+    </string-array>
+    <string-array name="answer_11_array">
+        <item>@string/answer_11_a</item>
+        <item>@string/answer_11_b</item>
+    </string-array>
+    <string-array name="answer_12_array">
+        <item>@string/answer_12_a</item>
+        <item>@string/answer_12_b</item>
+    </string-array>
+    <string-array name="answer_13_array">
+        <item>@string/answer_13_a</item>
+        <item>@string/answer_13_b</item>
+    </string-array>
+</resources>

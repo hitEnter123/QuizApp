@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question_1">What country is also known as Persia?</string>
+    <string name="answer_1_a">Pakistan</string>
+    <string name="answer_1_b">Saudi Arabia</string>
+    <string name="answer_1_c">Iran</string>
+    <string name="answer_1_d">Iraq</string>
+
+    <string name="question_2">Which is the tallest building in the world?</string>
+    <string name="answer_2_a">Burj Khalifa</string>
+    <string name="answer_2_b">Taipei 101</string>
+    <string name="answer_2_c">Lotte World Tower</string>
+    <string name="answer_2_d">Petronas Twin Tower</string>
+
+    <string name="question_3">The Chinese city of Beijing was previously known as Peking.</string>
+    <string name="answer_3_a">False</string>
+    <string name="answer_3_b">True</string>
+
+    <string name="question_4">Black holes are black.</string>
+    <string name="answer_4_a">False</string>
+    <string name="answer_4_b">True</string>
+
+    <string name="question_5">French is an official language in Canada apart from English.</string>
+    <string name="answer_5_a">False</string>
+    <string name="answer_5_b">True</string>
+
+    <string name="question_6">Which 3 islands below are the top 3 largest islands in the world?</string>
+    <string name="answer_6_a">Greenland</string>
+    <string name="answer_6_b">Madagascar</string>
+    <string name="answer_6_c">New Guinea</string>
+    <string name="answer_6_d">Borneo</string>
+
+    <string name="question_7">Which 3 of the following Marvel superheroes are in the Avengers under Marvel Cinematic Universe (MCU)?</string>
+    <string name="answer_7_a">Star Lord</string>
+    <string name="answer_7_b">Captain America</string>
+    <string name="answer_7_c">Iron Man</string>
+    <string name="answer_7_d">Thor</string>
+
+    <string name="question_8">What Olympic event was removed in 1920?</string>
+    <string name="answer_8_a">Running Deer Shooting</string>
+    <string name="answer_8_b">Motorboating</string>
+    <string name="answer_8_c">Cricket</string>
+    <string name="answer_8_d">Tug of War</string>
+
+    <string name="question_9">What is the world\'s smallest country?</string>
+    <string name="answer_9_a">San Marino</string>
+    <string name="answer_9_b">Monaco</string>
+    <string name="answer_9_c">Vatican City</string>
+    <string name="answer_9_d">Maldives</string>
+
+    <string name="question_10">If you cut an earthworm in half, both halves can regrow their body.</string>
+    <string name="answer_10_a">False</string>
+    <string name="answer_10_b">True</string>
+
+
+    <string name="question_11">Buzz Aldrin was the first man to urinate on the moon.</string>
+    <string name="answer_11_a">False</string>
+    <string name="answer_11_b">True</string>
+
+    <string name="question_12">Ice is denser than water.</string>
+    <string name="answer_12_a">False</string>
+    <string name="answer_12_b">True</string>
+
+    <string name="question_13">October 10th falls on Tuesday each year.</string>
+    <string name="answer_13_a">False</string>
+    <string name="answer_13_b">True</string>
+    
+    <string name="wrong_answer_toast">Oops! You\'ve answered wrongly!</string>
+    <string name="correct_answer_toast">Yay! You\'ve got the correct answer!</string>
+    <string name="please_select_answer_toast">Please select answer!</string>
+    <string name="please_select_more_answer_toast">Please select 3 answers!</string>
+    <string name="initial_score">Score 0/13</string>
+
+    <string name="true_false_text">False/True</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="toggle_off_false_text">False</string>
+    <string name="toggle_on_true_text">True</string>
+
+</resources>
